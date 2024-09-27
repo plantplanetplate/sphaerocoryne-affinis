@@ -12,6 +12,7 @@ While walking through almost any temple, public park, or decorated hotel garden 
 
 <param ve-entity title="Rumduol" eid="Q19600530" aliases="#BLM">
 
+<span ve-entity title="Black Lives Matter Movement" eid="Q19600530">human rights activists</span>
 
 
 
