@@ -91,10 +91,10 @@ Being such an important relic in Khmer literature, Reamker has been transformed 
 Within Cambodian ceremonial dances, Rumdul flowers are often used in combination with other fragrant, culturally significant flowers such as jasmine or lotuses within choreography. In the dance Robam Chuon Por (the blessing dance), which was upheld under Queen Sisowath Kossamak and her court, distinguished guests are greeted with Khmer dancers dressed as Aspara. In groups of three, five, or seven, the dancers hold golden goblets with water and Rumdul, jasmine, and rose flowers. With their fingers, the Apsara disperse blessed droplets towards guests, mimicking rainfall. In the past, this dance was restricted to royal courts as a method of protection and sanctification of the royal kingdom against evil spirits. However, nowadays the dance is used for wedding celebrations, political welcoming ceremonies for visitors, and opening ceremonies in Cambodia and within diaspora communities. 
 
 .ve-media https://www.youtube.com/watch?v=J5mQ3a-H9LA
-
+<param ve-video id="J5mQ3a-H9LA" title="Robam Chuon Por (the blessing dance)">
 ### Music:
 A romantic ballad by legendary Cambodian singer Sinn Sisamouth is called “Rumdul Pursat”. Within the song, he sings yearningly about a beautiful woman from Pursat province. 
-
+<param ve-video id="BR8DesLa6ck&t=4s" title="“Rumdul Pursat” by Sinn Sisamouth">
 .ve-media https://www.youtube.com/watch?v=BR8DesLa6ck&t=4s
 
 >A single rumdul I have wanted
@@ -113,11 +113,11 @@ Perhaps Rumdul has already found her partner
 Tell me, do not leave me guessing
 
 Sinn Sisamouth also song of a similar vein, once again linking to the Rumdul flower called “Bopha Kors Rumdul” (បុប្ផាកោះរំដួល).
-
+<param ve-video id="p9eHNDfHvls&t=16s" title="“Bopha Kors Rumdul” by Sinn Sisamouth">
 .ve-media https://www.youtube.com/watch?v=p9eHNDfHvls&t=16s
 
-Another famous romance ballad of similar nature is “Romduol Kratie” (រំដួលក្រចេះ) which has been sung by many Cambodian singers over the years such as Im Song Seoum (អឹុមសុងសឺម) and Duong Viraksith (ដួង វីរៈសិទ្ធ).
-
+Another famous romance ballad of similar nature is “Rumdul Kratie” (រំដួលក្រចេះ) which has been sung by many Cambodian singers over the years such as Im Song Seoum (អឹុមសុងសឺម) and Duong Viraksith (ដួង វីរៈសិទ្ធ).
+<param ve-video id="p9eHNDfHvls&t=16s" title="“Rumdul Kratie” by Im Songsoem">
 .ve-media https://www.youtube.com/watch?v=Jpcm8s_ZC1k
 
 ***
