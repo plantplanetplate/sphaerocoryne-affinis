@@ -4,7 +4,7 @@ PPP Rumdoul
 <param ve-config 
        title=" Rumduol រំដួល (Sphaerocoryne affinis)"
        author="Ashley Thuthao Keng Dam, Ph.D."
-       banner="[https://upload.wikimedia.org/wikipedia/commons/3/37/River_bank_of_Don_Khon_with_stilt_wooden_houses_at_golden_hour_from_Don_Det_Laos.jpg](https://upload.wikimedia.org/wikipedia/commons/1/19/Rumdoul.jpg)" 
+       banner="(https://upload.wikimedia.org/wikipedia/commons/1/19/Rumdoul.jpg" 
        layout="vertical">
 
 
