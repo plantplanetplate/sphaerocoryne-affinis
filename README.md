@@ -152,6 +152,6 @@ Banner image: [Marcin Konsek / Wikimedia Commons] (https://commons.wikimedia.o
 [^14]: Nghi, N. B. T., Uyen, T. T., Anh, H. M., Linh, D. M., & Thao, D. T. P. (2022). Rumdul (Sphaerocoryne affinis) Antioxidant Activity and Its Potential for Parkinson's Disease Treatment. Oxidative medicine and cellular longevity, 2022, 8918966. https://doi.org/10.1155/2022/8918966
 [^15]: Dam, A.T.K. (2022). Curative Cuisines: Khmer Traditional and Folk (Food-)medicine Use During Human Ecological Instability in Siem Reap Province, Cambodia. Doctoral Thesis. Università degli Studi di Scienze Gastronomiche.
 [^16]: USAID and Winrock International. (2017). Useful Plants of Sandan: A brief guide for visitors to Sandan Community Ecotourism Site Cambodia. p.54. https://winrock.org/wp-content/uploads/2017/10/Plant-Guide-Book-spreading.pdf
-[^17]: Shaffer, Jody Jensen (2016). The Way the Cookie Crumbled. Simon and Schuster. p. 43. ISBN 9781481461818.
+[^17]: Shaffer, Jody Jensen (2016). The Way the Cookie Crumbled. Simon and Schuster. p. 43. ISBN 9781481461818. 
 
 ## Additional Readings
