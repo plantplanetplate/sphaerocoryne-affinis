@@ -11,12 +11,12 @@ While walking through almost any temple, public park, or decorated hotel garden 
 
 
 <param ve-plant-specimen eid= "Q17135112" max="1">
-<param ve-image>
+
 <param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/8/8b/%28Cocos_nucifera%2C_Linn.%29.%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg"
-       label="'Cocos nucifera Linn.' by José Joaquim Freire (1760-1847)"
-       attribution="Wiki Commons"
-       license="CC BY 2.0"
+       url="https://upload.wikimedia.org/wikipedia/commons/1/19/Rumdoul.jpg"
+       label="'Rumdul flower and leaves"
+       attribution="ទេព សុវិចិត្រ at Khmer Wikipedia"
+       license="Public Domain"
        fit="contain">
 
 ***
