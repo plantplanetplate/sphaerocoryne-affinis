@@ -9,7 +9,12 @@
 ## Introduction 
 While walking through almost any temple, public park, or decorated hotel garden across Cambodia, a branch of flowering golden Sphaerocoryne affinis or the Rumdul (រំដួល) is bound to capture your attention. Its uniquely enchanting scent of musky and sweet is often described as a defining characteristic of the experience of a late afternoon or early evening in Cambodia, as these are its peak blooming moments of the day. Such smells easily cling and disperse across the winds, making it very likely to be able to smell Rumdul before even seeing one of its petite blooms. This fragrance, coupled with the triangular symmetry of its flower petals, makes it a memorable highlight for both locals and visitors alike. Its status as the national flower of Cambodia is unsurprising – it’s hard to think of examples of a more beloved flower. While only designated as a national symbol in 2005 by <span ve-entity title="King Norodom Sihamoni" eid="Q57319">King Norodom Sihamoni</span> via royal decree, the cultural significance of the flower is longstanding – one only needs to visit remnants of <span ve-entity title="Angkor Wat" eid="Q43473">Angkor Wat</span>.[^1] Amongst the temple’s numerous stone carvings, countless artistic depictions of the flower, in varying stages of growth, can be made out. From its presence within minor details like decorations on the skirts of <span ve-entity title="Aspara" eid="Q148773">Apsara</span> or forming ornate borders along walls, to entirely dedicated panels, Rumdul is undoubtedly an important Cambodian plant.
 
-.ve-media wc:The_Bug_Peek.jpg right static caption="Static image" 
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/8/8b/%28Cocos_nucifera%2C_Linn.%29.%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg"
+       label="'Cocos nucifera Linn.' by José Joaquim Freire (1760-1847)"
+       attribution="Wiki Commons"
+       license="CC BY 2.0"
+       fit="contain">
 
 ***
 
