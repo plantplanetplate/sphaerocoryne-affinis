@@ -90,8 +90,11 @@ Being such an important relic in Khmer literature, Reamker has been transformed 
 ### Dance: 
 Within Cambodian ceremonial dances, Rumdul flowers are often used in combination with other fragrant, culturally significant flowers such as jasmine or lotuses within choreography. In the dance Robam Chuon Por (the blessing dance), which was upheld under Queen Sisowath Kossamak and her court, distinguished guests are greeted with Khmer dancers dressed as Aspara. In groups of three, five, or seven, the dancers hold golden goblets with water and Rumdul, jasmine, and rose flowers. With their fingers, the Apsara disperse blessed droplets towards guests, mimicking rainfall. In the past, this dance was restricted to royal courts as a method of protection and sanctification of the royal kingdom against evil spirits. However, nowadays the dance is used for wedding celebrations, political welcoming ceremonies for visitors, and opening ceremonies in Cambodia and within diaspora communities. 
 
+.ve-media https://www.youtube.com/watch?v=J5mQ3a-H9LA
+
 ### Music:
 A romantic ballad by legendary Cambodian singer Sinn Sisamouth is called “Rumdul Pursat”. Within the song, he sings yearningly about a beautiful woman from Pursat province. 
+.ve-media https://www.youtube.com/watch?v=BR8DesLa6ck&t=4s
 
 >A single rumdul I have wanted
 Whose name is engraved in my heart
@@ -108,7 +111,11 @@ Despite my attempts, she remains indifferent
 Perhaps Rumdul has already found her partner
 Tell me, do not leave me guessing
 
-Sinn Sisamouth also song of a similar vein, once again linking to the Rumdul flower called “Bopha Kors Rumdul” (បុប្ផាកោះរំដួល). Another famous romance ballad of similar nature is “Romduol Kratie” (រំដួលក្រចេះ) which has been sung by many Cambodian singers over the years such as Im Song Seoum (អឹុមសុងសឺម) and Duong Viraksith (ដួង វីរៈសិទ្ធ).
+Sinn Sisamouth also song of a similar vein, once again linking to the Rumdul flower called “Bopha Kors Rumdul” (បុប្ផាកោះរំដួល).
+.ve-media https://www.youtube.com/watch?v=p9eHNDfHvls&t=16s
+
+Another famous romance ballad of similar nature is “Romduol Kratie” (រំដួលក្រចេះ) which has been sung by many Cambodian singers over the years such as Im Song Seoum (អឹុមសុងសឺម) and Duong Viraksith (ដួង វីរៈសិទ្ធ).
+.ve-media https://www.youtube.com/watch?v=Jpcm8s_ZC1k
 
 ***
 
@@ -123,6 +130,10 @@ While several historical artifacts as well as recent fashion trends have demonst
 Given Rumdul’s wide range of uses and ornamental value, it is common for people to purchase and cultivate their own plants. Depending on your location and the availability of access to seeds, successfully growing and maintaining Rumdul may be possible. Given its native range, the climate which is most preferable for the plant has a temperature range above 20 degrees Celsius. Ideally, you should plant it in soil which is well-draining and rich in organic matter; consider incorporating organic compost or a slow-release fertiliser throughout the growing process. Though Rumdul thrives in full sun to partial shade, this might not be ideal in extremely hot climates and considerations for afternoon shading should be made. Maintaining a consistent watering schedule is important, though the plant can occasionally withstand bouts of drought. Being a tropical plant, pests such as aphids and mealybugs may appear – so be on the lookout and manage them with organic interventions only. As always, be sure to check your local rules and legislation regarding the planting and incorporation of non-native species into your garden and local ecosystem before doing so. 
 
 ***
+## Fieldwork Insights
+
+
+
 ## References 
 Banner image: [Marcin Konsek / Wikimedia Commons] (https://commons.wikimedia.org/wiki/File:2016_Phnom_Penh,_Pa%C5%82ac_Kr%C3%B3lewski,_Malowid%C5%82a_przedstawiaj%C4%85ce_sceny_z_Reamker_(27).jpg) 
 [^1]: Appendix 6 of the Royal Decree No. NS/RKT/0305/149 dated March 21, 2005 on the Designation of Animals and Plants as National Symbols of the Kingdom of Cambodia. https://daravireak.wordpress.com/wp-content/uploads/2012/01/royal-decree-eng1.pdf
@@ -142,3 +153,5 @@ Banner image: [Marcin Konsek / Wikimedia Commons] (https://commons.wikimedia.o
 [^15]: Dam, A.T.K. (2022). Curative Cuisines: Khmer Traditional and Folk (Food-)medicine Use During Human Ecological Instability in Siem Reap Province, Cambodia. Doctoral Thesis. Università degli Studi di Scienze Gastronomiche.
 [^16]: USAID and Winrock International. (2017). Useful Plants of Sandan: A brief guide for visitors to Sandan Community Ecotourism Site Cambodia. p.54. https://winrock.org/wp-content/uploads/2017/10/Plant-Guide-Book-spreading.pdf
 [^17]: Shaffer, Jody Jensen (2016). The Way the Cookie Crumbled. Simon and Schuster. p. 43. ISBN 9781481461818.
+
+## Additional Readings
