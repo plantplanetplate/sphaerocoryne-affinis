@@ -67,7 +67,15 @@ Aside from being the national flower of Cambodia, Rumdul is also used in several
 ## Other Uses and Practices 
 
 ### Beauty:
-Because of its exceptional fragrance, Rumdul has had a historical role and presence within cosmetic making. The flowers have been used to make both essential oils and aromatherapy oils. These extracts have been historically blended to create scented lip wax called Kramuon Rumdul, which was predominantly used by Khmer women during ancient times. The flowers were also regularly woven into women’s hairstyles, leading to an historical association with Khmer women and the flower. In the temples of Angkor Wat and Banteay Srei in Siem Reap Province, it is possible to see live carvings of Apsara and other feminine deities in ancient Khmer culture, decorated in the flowers. To this day, many Cambodian jewelry artisans include Rumdul motifs into their floral-themed designs, as marketing trends and consumer habits often link the flower to “Cambodian feminine charm”.  
+Because of its exceptional fragrance, Rumdul has had a historical role and presence within cosmetic making. The flowers have been used to make both essential oils and aromatherapy oils. These extracts have been historically blended to create scented lip wax called Kramuon Rumdul, which was predominantly used by Khmer women during ancient times. The flowers were also regularly woven into women’s hairstyles, leading to an historical association with Khmer women and the flower. In the temples of Angkor Wat and <span ve-entity title="Banteay Srei" eid="Q790099">Banteay Srei</span> in Siem Reap Province, it is possible to see live carvings of Apsara and other feminine deities in ancient Khmer culture, decorated in the flowers. To this day, many Cambodian jewelry artisans include Rumdul motifs into their floral-themed designs, as marketing trends and consumer habits often link the flower to “Cambodian feminine charm”.  
+
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Apsara_Cambodia.jpg"
+       label="Aspara dancers in full attire, with Rumdul flowers adorning their headpieces "
+       attribution="Pierrevang3, Public Domain via Wikimedia Commons"
+       fit="contain">
+
+
 
 ### Religion:
 Though there are many flowers associated with Buddhism and Hinduism, the role of the Rumdul flowers in Cambodia are primarily tied to providing offerings and receiving blessings. Around temple settings, you are bound to find merchants who are selling Rumdul flowers woven into bracelets using red thread, as well as layered bunches to leave at altars and shrines. The threading of the flowers into decorative body chains was initially a very common practice for women prior to entering temples – doing so would prompt, if not secure, a blessing. 
