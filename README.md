@@ -35,15 +35,19 @@ Aside from being the national flower of Cambodia, Rumduol is also used in severa
 
 ##Uses and Practices 
 
-###Beauty: Because of its exceptional fragrance, Rumduol has had a historical role and presence within cosmetic making. The flowers have been used to make both essential oils and aromatherapy oils. These extracts have been historically blended to create scented lip wax called Kramuon Rumduol, which was predominantly used by Khmer women during ancient times. The flowers were also regularly woven into women’s hairstyles, leading to an historical association with Khmer women and the flower. In the temples of Angkor Wat and Banteay Srei in Siem Reap Province, it is possible to see live carvings of Apsara and other feminine deities in ancient Khmer culture, decorated in the flowers. To this day, many Cambodian jewelry artisans include Rumduol motifs into their floral-themed designs, as marketing trends and consumer habits often link the flower to “Cambodian feminine charm”.  
+###Beauty:
+Because of its exceptional fragrance, Rumduol has had a historical role and presence within cosmetic making. The flowers have been used to make both essential oils and aromatherapy oils. These extracts have been historically blended to create scented lip wax called Kramuon Rumduol, which was predominantly used by Khmer women during ancient times. The flowers were also regularly woven into women’s hairstyles, leading to an historical association with Khmer women and the flower. In the temples of Angkor Wat and Banteay Srei in Siem Reap Province, it is possible to see live carvings of Apsara and other feminine deities in ancient Khmer culture, decorated in the flowers. To this day, many Cambodian jewelry artisans include Rumduol motifs into their floral-themed designs, as marketing trends and consumer habits often link the flower to “Cambodian feminine charm”.  
 
-###Religion: Though there are many flowers associated with Buddhism and Hinduism, the role of the Rumduol flowers in Cambodia are primarily tied to providing offerings and receiving blessings. Around temple settings, you are bound to find merchants who are selling Rumduol flowers woven into bracelets using red thread, as well as layered bunches to leave at altars and shrines. The threading of the flowers into decorative body chains was initially a very common practice for women prior to entering temples – doing so would prompt, if not secure, a blessing. 
+###Religion:
+Though there are many flowers associated with Buddhism and Hinduism, the role of the Rumduol flowers in Cambodia are primarily tied to providing offerings and receiving blessings. Around temple settings, you are bound to find merchants who are selling Rumduol flowers woven into bracelets using red thread, as well as layered bunches to leave at altars and shrines. The threading of the flowers into decorative body chains was initially a very common practice for women prior to entering temples – doing so would prompt, if not secure, a blessing. 
 
-###Material Uses: The wood of Rumduol is used for building furniture and homes, boats, and other useful tools. In the past, it was also used to craft weapons such as hunting bows. The wood is also used as firewood for heating, cooking, and other daily activities. 
+###Material Uses: 
+The wood of Rumduol is used for building furniture and homes, boats, and other useful tools. In the past, it was also used to craft weapons such as hunting bows. The wood is also used as firewood for heating, cooking, and other daily activities. 
 
 ##The Arts 
 
-###Poetry: In the epic poem Reamker, the Khmer literary adaptation of the Indian epic Ramayana, the story of an exiled prince’s return from a forest to claim his throne unfolds. Among his many adventures and encounters, there are references to incredibly fragrant flowers with notable symmetry and fruits, which some argue could possibly be  Rumduol, but this is still an ongoing debate. 
+###Poetry: 
+In the epic poem Reamker, the Khmer literary adaptation of the Indian epic Ramayana, the story of an exiled prince’s return from a forest to claim his throne unfolds. Among his many adventures and encounters, there are references to incredibly fragrant flowers with notable symmetry and fruits, which some argue could possibly be  Rumduol, but this is still an ongoing debate. 
 
 
 Death to fruit and flower:
@@ -61,7 +65,8 @@ Being such an important relic in Khmer literature, Reamker has been transformed 
 
 ###Dance: Within Cambodian ceremonial dances, Rumduol flowers are often used in combination with other fragrant, culturally significant flowers such as jasmine or lotuses within choreography. In the dance Robam Chuon Por (the blessing dance), which was upheld under Queen Sisowath Kossamak and her court, distinguished guests are greeted with Khmer dancers dressed as Aspara. In groups of three, five, or seven, the dancers hold golden goblets with water and Rumduol, jasmine, and rose flowers. With their fingers, the Apsara disperse blessed droplets towards guests, mimicking rainfall. In the past, this dance was restricted to royal courts as a method of protection and sanctification of the royal kingdom against evil spirits. However, nowadays the dance is used for wedding celebrations, political welcoming ceremonies for visitors, and opening ceremonies in Cambodia and within diaspora communities. 
 
-###Music: A romantic ballad by legendary Cambodian singer Sinn Sisamouth is called “Rumduol Pursat”. Within the song, he sings yearningly about a beautiful woman from Pursat province. 
+###Music:
+A romantic ballad by legendary Cambodian singer Sinn Sisamouth is called “Rumduol Pursat”. Within the song, he sings yearningly about a beautiful woman from Pursat province. 
 
 A single rumduol I have wanted
 Whose name is engraved in my heart
