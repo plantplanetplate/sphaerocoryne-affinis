@@ -108,4 +108,4 @@ Given Rumdul’s wide range of uses and ornamental value, it is common for peopl
 [^2]: Royal Asiatic Society of Great Britain and Ireland. (1878). Journal of the Straits Branch of the Royal Asiatic Society (Vol. 75, p. 8). https://www.biodiversitylibrary.org/page/41792729
 [^3]: Sphaerocoryne affinis. Kew Royal Botanical Gardens. https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:75154-1
 [^4]: Polyalthia affinis. Kew Royal Botanical Gardens. https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:75154-1
-
+[^5]: Popowia aberrans. Ecoport Picture Databank.http://ecoport.org/ep?SearchType=pdb&PdbID=112755
