@@ -93,7 +93,7 @@ Within Cambodian ceremonial dances, Rumdul flowers are often used in combination
 <param ve-video id="J5mQ3a-H9LA" title="Robam Chuon Por (the blessing dance)">
 ### Music:
 A romantic ballad by legendary Cambodian singer Sinn Sisamouth is called “Rumdul Pursat”. Within the song, he sings yearningly about a beautiful woman from Pursat province. 
-<param ve-video id="BR8DesLa6ck&t=4s" title="“Rumdul Pursat” by Sinn Sisamouth">
+<param ve-video id="BR8DesLa6ck&t" title="“Rumdul Pursat” by Sinn Sisamouth">
 
 
 >A single rumdul I have wanted
@@ -112,10 +112,10 @@ Perhaps Rumdul has already found her partner
 Tell me, do not leave me guessing
 
 Sinn Sisamouth also song of a similar vein, once again linking to the Rumdul flower called “Bopha Kors Rumdul” (បុប្ផាកោះរំដួល).
-<param ve-video id="p9eHNDfHvls&t=16s" title="“Bopha Kors Rumdul” by Sinn Sisamouth">
+<param ve-video id="p9eHNDfHvls&t" title="“Bopha Kors Rumdul” by Sinn Sisamouth">
 
 Another famous romance ballad of similar nature is “Rumdul Kratie” (រំដួលក្រចេះ) which has been sung by many Cambodian singers over the years such as Im Song Seoum (អឹុមសុងសឺម) and Duong Viraksith (ដួង វីរៈសិទ្ធ).
-<param ve-video id="p9eHNDfHvls&t=16s" title="“Rumdul Kratie” by Im Songsoem">
+<param ve-video id="Jpcm8s_ZC1k" title="“Rumdul Kratie” by Im Songsoem">
 
 ***
 
