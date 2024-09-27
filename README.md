@@ -171,4 +171,3 @@ Banner image: [Marcin Konsek / Wikimedia Commons] (https://commons.wikimedia.o
 [^17]: Shaffer, Jody Jensen (2016). The Way the Cookie Crumbled. Simon and Schuster. p. 43. ISBN 9781481461818. 
 Wong, D. (2023). Cambodian Media Claims Louis Vuitton’s Logo Was Adapted From Ancient Khmer Art. https://sea.mashable.com/life/22500/cambodian-media-claims-louis-vuittons-logo-was-adapted-from-ancient-khmer-art
 
-## Additional Readings
