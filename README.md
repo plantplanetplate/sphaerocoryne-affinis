@@ -3,8 +3,8 @@
 <param ve-config 
        title=" Rumduol រំដួល (Sphaerocoryne affinis)"
        author="Ashley Thuthao Keng Dam, Ph.D."
-       banner="[https://upload.wikimedia.org/wikipedia/commons/1/19/Rumdoul.jpg](https://upload.wikimedia.org/wikipedia/commons/1/19/Rumdoul.jpg](https://upload.wikimedia.org/wikipedia/commons/1/19/Rumdoul.jpg)" 
-       layout="vertical">
+       banner="https://i.pinimg.com/originals/5f/11/96/5f1196bd3d8db63f980a5342b420231b.jpg" 
+       layout="horizontal">
 
 
 
