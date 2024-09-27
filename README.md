@@ -137,5 +137,5 @@ Banner image: [Marcin Konsek / Wikimedia Commons] (https://commons.wikimedia.o
 [^10]: Jung, J. H., Pummangura, S., Chaichantipyuth, C., Patarapanich, C., Fanwick, P. E., Chang, C. J., & McLaughlin, J. L. (1990). New bioactive heptenes from Melodorum fruticosum (Annonaceae). Tetrahedron, 46(15), 5043-5054.
 [^11]: Tuchinda, P., Udchachon, J., Reutrakul, V., Santisuk, T., Taylor, W. C., Farnsworth, N. R., ... & Kinghorn, A. D. (1991). Bioactive butenolides from Melodorum fruticosum. Phytochemistry, 30(8), 2685-2689.
 [^12]: Chaichantipyuth, C., Tiyaworanan, S., Mekaroonreung, S., Ngamrojnavanich, N., Roengsumran, S., Puthong, S., Petsom, A., & Ishikawa, T. (2001). Oxidized heptenes from flowers of Melodorum fruticosum. Phytochemistry, 58(8), 1311–1315. https://doi.org/10.1016/s0031-9422(01)00215-1
-[^13]:
+[^13]: Nguyen, T. Y. L., & Le, V. V. M. (2016). Effects of ultrasonic treatment of rumduol mash on the antioxidant level of fruit juice. International Food Research Journal, 23(6), 2335-2340.
 [^14]: Nghi, N. B. T., Uyen, T. T., Anh, H. M., Linh, D. M., & Thao, D. T. P. (2022). Rumdul (Sphaerocoryne affinis) Antioxidant Activity and Its Potential for Parkinson's Disease Treatment. Oxidative medicine and cellular longevity, 2022, 8918966. https://doi.org/10.1155/2022/8918966
