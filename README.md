@@ -2,7 +2,7 @@
 <param ve-config 
        title=" Rumdul រំដួល (Sphaerocoryne affinis)"
        author="Ashley Thuthao Keng Dam, Ph.D." banner="https://upload.wikimedia.org/wikipedia/commons/2/20/2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Malowid%C5%82a_przedstawiaj%C4%85ce_sceny_z_Reamker_%2827%29.jpg" 
-       layout="horizontal">
+       layout="vertical">
 
 
 
@@ -114,6 +114,7 @@ Given Rumdul’s wide range of uses and ornamental value, it is common for peopl
 
 ***
 ## References 
+Banner image: [Marcin Konsek / Wikimedia Commons] href="https://commons.wikimedia.org/wiki/File:2016_Phnom_Penh,_Pa%C5%82ac_Kr%C3%B3lewski,_Malowid%C5%82a_przedstawiaj%C4%85ce_sceny_z_Reamker_(27).jpg"><img width="512" alt="2016 Phnom Penh, Pałac Królewski, Malowidła przedstawiające sceny z Reamker (27)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Malowid%C5%82a_przedstawiaj%C4%85ce_sceny_z_Reamker_%2827%29.jpg/512px-2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Malowid%C5%82a_przedstawiaj%C4%85ce_sceny_z_Reamker_%2827%29.jpg?20190824232945"></a>
 [^1]: Appendix 6 of the Royal Decree No. NS/RKT/0305/149 dated March 21, 2005 on the Designation of Animals and Plants as National Symbols of the Kingdom of Cambodia. https://daravireak.wordpress.com/wp-content/uploads/2012/01/royal-decree-eng1.pdf
 [^2]: Royal Asiatic Society of Great Britain and Ireland. (1878). Journal of the Straits Branch of the Royal Asiatic Society (Vol. 75, p. 8). https://www.biodiversitylibrary.org/page/41792729
 [^3]: Sphaerocoryne affinis. Kew Royal Botanical Gardens. https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:75154-1
