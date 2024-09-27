@@ -19,6 +19,8 @@ While walking through almost any temple, public park, or decorated hotel garden 
        license="Public Domain"
        fit="contain">
 
+
+
 ***
 
 ## Botanical Name(s)
@@ -53,6 +55,13 @@ Rumdul is primarily sought for its fruits. The taste of Rumdul fruits is variabl
 
 ## Possible Meanings and Symbolisms
 Aside from being the national flower of Cambodia, Rumdul is also used in several logos for public and private entities in various sectors across the country. Not only is it commonly used in ecotourism and hospitality overall, it is also widely considered a governmental symbol of environmental preservation and protection. Within several promotional materials within the Cambodian tourist sector, various agencies have linked qualities about the plant to generalisations about the collective character of Cambodians as a whole. Some descriptors include “cheerful”, “energetic”, “positive”, “friendly”, “full of life”, and “elegant”. Despite use in several religiously-oriented Khmer cultural heritage and practices, Rumdul does not have any notable significance nor connotations in either Buddhism or Hinduism. Rumdul has also been used as a slang term to refer to a beautiful Khmer woman – with many songs, poems, and artistic creations across history demonstrating this. As a result, it is also a popular women’s name in Cambodia. 
+
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/f/f0/D%C3%A9tail_dun_%C3%A9pisode_du_Reamker_%28Phnom_Penh%29_%286997778855%29.jpg"
+       label="Aspara from Reamker"
+       attribution="Jean-Pierre Dalbéra from Paris, France, CC BY 2.0, via Wikimedia Commons"
+       fit="contain">
+
 
 ***
 
