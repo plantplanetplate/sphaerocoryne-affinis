@@ -1,5 +1,4 @@
-# sphaerocoryne-affinis
-PPP Rumdoul 
+
 
 <param ve-config 
        title=" Rumduol រំដួល (Sphaerocoryne affinis)"
