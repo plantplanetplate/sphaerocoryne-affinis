@@ -136,7 +136,7 @@ Another famous romance ballad of similar nature is “Rumdul Kratie” (រំ�
 ***
 
 ## Controversies
-While several historical artifacts as well as recent fashion trends have demonstrated the cultural impact of Rumdul in Cambodia, there have also been some unusual controversies and claims made. In 2023, a Cambodian company named “EBook Cambodia” posted on social media a picture of a Louis Vutton handbag next to an Apsara statue carving, speculating that in actuality  the luxury brand derived its iconic design from the Rumdul flower. While the two profiles of the carving and brand icon share similarities, this rumor was quickly debunked by social media users, who cited that the icon designer Georges Vutton attributed the icon’s inspiration to be from Japanese square floral motifs.
+While several historical artifacts as well as recent fashion trends have demonstrated the cultural impact of Rumdul in Cambodia, there have also been some unusual controversies and claims made. In 2023, a Cambodian company named “EBook Cambodia” posted on social media a picture of a Louis Vutton handbag next to an Apsara statue carving, speculating that in actuality  the luxury brand derived its iconic design from the Rumdul flower. While the two profiles of the carving and brand icon share similarities, this rumor was quickly debunked by social media users, who cited that the icon designer Georges Vutton attributed the icon’s inspiration to be from Japanese square floral motifs.[^ 
 
 
 ***
@@ -169,5 +169,6 @@ Banner image: [Marcin Konsek / Wikimedia Commons] (https://commons.wikimedia.o
 [^15]: Dam, A.T.K. (2022). Curative Cuisines: Khmer Traditional and Folk (Food-)medicine Use During Human Ecological Instability in Siem Reap Province, Cambodia. Doctoral Thesis. Università degli Studi di Scienze Gastronomiche.
 [^16]: USAID and Winrock International. (2017). Useful Plants of Sandan: A brief guide for visitors to Sandan Community Ecotourism Site Cambodia. p.54. https://winrock.org/wp-content/uploads/2017/10/Plant-Guide-Book-spreading.pdf
 [^17]: Shaffer, Jody Jensen (2016). The Way the Cookie Crumbled. Simon and Schuster. p. 43. ISBN 9781481461818. 
+Wong, D. (2023). Cambodian Media Claims Louis Vuitton’s Logo Was Adapted From Ancient Khmer Art. https://sea.mashable.com/life/22500/cambodian-media-claims-louis-vuittons-logo-was-adapted-from-ancient-khmer-art
 
 ## Additional Readings
