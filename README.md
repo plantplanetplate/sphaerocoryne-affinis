@@ -64,14 +64,14 @@ The wood of Rumdul is used for building furniture and homes, boats, and other us
 In the epic poem Reamker, the Khmer literary adaptation of the Indian epic Ramayana, the story of an exiled prince’s return from a forest to claim his throne unfolds. Among his many adventures and encounters, there are references to incredibly fragrant flowers with notable symmetry and fruits, which some argue could possibly be  Rumdul, but this is still an ongoing debate. 
 
 
-Death to fruit and flower:
+>Death to fruit and flower:
 Leaf and blossom dropped, shriveled
 
-Flowers sprang up far and wide
+>Flowers sprang up far and wide
 Suddenly, richly displayed,
 As if by an arranger’s art
 
-The flowers fluttered out their fund
+>The flowers fluttered out their fund
 Of perfume, which unwound
 Sweetness pervading all the scene
 
@@ -83,17 +83,17 @@ Within Cambodian ceremonial dances, Rumdul flowers are often used in combination
 ### Music:
 A romantic ballad by legendary Cambodian singer Sinn Sisamouth is called “Rumdul Pursat”. Within the song, he sings yearningly about a beautiful woman from Pursat province. 
 
-A single rumdul I have wanted
+>A single rumdul I have wanted
 Whose name is engraved in my heart
 The one I will always remember
 A rumdul bloom that I love
 
-Flower in bloom, fragrance everywhere
+>Flower in bloom, fragrance everywhere
 All my chances ended up in sorrow
 My heart is battered down by dejection
 All because rumdul refuses to acknowledge my feelings 
 
-Rumdul Pursat, a blossom love
+>Rumdul Pursat, a blossom love
 Despite my attempts, she remains indifferent
 Perhaps Rumdul has already found her partner
 Tell me, do not leave me guessing
