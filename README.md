@@ -1,5 +1,4 @@
 
-
 <param ve-config 
        title=" Rumduol រំដួល (Sphaerocoryne affinis)"
        author="Ashley Thuthao Keng Dam, Ph.D."
@@ -11,7 +10,7 @@
 ##Introduction 
 While walking through almost any temple, public park, or decorated hotel garden across Cambodia, a branch of flowering golden Sphaerocoryne affinis or the Rumduol (រំដួល) is bound to capture your attention. Its uniquely enchanting scent of musky and sweet is often described as a defining characteristic of the experience of a late afternoon or early evening in Cambodia, as these are its peak blooming moments of the day. Such smells easily cling and disperse across the winds, making it very likely to be able to smell Rumduol before even seeing one of its petite blooms. This fragrance, coupled with the triangular symmetry of its flower petals, makes it a memorable highlight for both locals and visitors alike. Its status as the national flower of Cambodia is unsurprising – it’s hard to think of examples of a more beloved flower. While only designated as a national symbol in 2005 by King Norodom Sihamoni via royal decree, the cultural significance of the flower is longstanding – one only needs to visit remnants of Angkor Wat. Amongst the temple’s numerous stone carvings, countless artistic depictions of the flower, in varying stages of growth, can be made out. From its presence within minor details like decorations on the skirts of Apsara or forming ornate borders along walls, to entirely dedicated panels, Rumduol is undoubtedly an important Cambodian plant.
 
-<param ve-entity eid="Q57319"> <!--King Norodom Sihamoni-->
+<param ve-entity eid=""> ==King Norodom Sihamoni== {Q57319}
 <param ve-entity eid="Q43473"> <!--Angkor Wat--> 
 <param ve-entity eid="Q148773"> <!--Aspara -->
 
@@ -108,3 +107,4 @@ While several historical artifacts as well as recent fashion trends have demonst
 Given Rumduol’s wide range of uses and ornamental value, it is common for people to purchase and cultivate their own plants. Depending on your location and the availability of access to seeds, successfully growing and maintaining Rumduol may be possible. Given its native range, the climate which is most preferable for the plant has a temperature range above 20 degrees Celsius. Ideally, you should plant it in soil which is well-draining and rich in organic matter; consider incorporating organic compost or a slow-release fertiliser throughout the growing process. Though Rumduol thrives in full sun to partial shade, this might not be ideal in extremely hot climates and considerations for afternoon shading should be made. Maintaining a consistent watering schedule is important, though the plant can occasionally withstand bouts of drought. Being a tropical plant, pests such as aphids and mealybugs may appear – so be on the lookout and manage them with organic interventions only. As always, be sure to check your local rules and legislation regarding the planting and incorporation of non-native species into your garden and local ecosystem before doing so. 
 
 ##References 
+[^ref1] Appendix 6 of the Royal Decree No. NS/RKT/0305/149 dated March 21, 2005 on the Designation of Animals and Plants as National Symbols of the Kingdom of Cambodia
