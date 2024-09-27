@@ -12,7 +12,7 @@ While walking through almost any temple, public park, or decorated hotel garden 
 
 
 
-
+<span ve-entity title="King Norodom Sihamoni" eid="{Q57319}">King Norodom Sihamoni</span>
 
 
 
