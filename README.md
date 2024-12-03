@@ -147,6 +147,8 @@ Given Rumdul’s wide range of uses and ornamental value, it is common for peopl
 
 ***
 ## Fieldwork Insights
+Community members regularly eat rumduol fruits when available. While it is typically eaten fresh on its own, fruits which are less ripe and thus sour may be paired with chili salt, as is common with sour-tasting fruits in Cambodian cuisine and ways of eating. 
+
 
 
 
